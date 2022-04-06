@@ -1,6 +1,6 @@
 # M2.951-Practica1
 
-# Jugadors més valuosos temporada actual 
+# Jugadors més valuosos temporada actual <img align="center" width="150" height="200" src="imagen/fifa.png"> 
 
 Autor: Raúl Morcillo López
 
