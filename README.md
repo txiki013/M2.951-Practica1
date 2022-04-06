@@ -1,5 +1,7 @@
 # M2.951-Practica1
 
+# Jugadors més valuosos temporada actual 
+
 Autor: Raúl Morcillo López
 
 Fitxer Python: (Practica 1 - Raúl Morcillo López.py)
