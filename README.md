@@ -34,5 +34,6 @@ Fitxer Pdf: (Practica 1 - Raúl Morcillo López.pdf)
 
 DOI Zenodo:
     
-    [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6414650.svg)](https://doi.org/10.5281/zenodo.6414650)
+    .. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.6414650.svg
+       :target: https://doi.org/10.5281/zenodo.6414650
 
