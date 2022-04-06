@@ -31,3 +31,8 @@ Fitxer Csv: (Jugadors més valuosos.csv)
 Fitxer Pdf: (Practica 1 - Raúl Morcillo López.pdf)
 
      Document amb les respostes dels apartats 1-10 de la pràctica.
+
+DOI Zenodo:
+    
+    https://doi.org/10.5281/zenodo.6414650
+
